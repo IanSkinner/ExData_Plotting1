@@ -1,5 +1,5 @@
 ## This code reads the power concumption data set 
-## and produced the viz for plot1 , outputting this to PNG
+## and produced the viz for plot2 , outputting this to PNG
 
 
 #Load data, convert date times and subset to 2 day period
